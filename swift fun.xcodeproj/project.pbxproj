@@ -94,6 +94,11 @@
 			isa = PBXProject;
 			attributes = {
 				ORGANIZATIONNAME = ayobuba;
+				TargetAttributes = {
+					1BB0EC06F22F180AFB707DF9 = {
+						DevelopmentTeam = EB4A23BKUW;
+					};
+				};
 			};
 			buildConfigurationList = 1BB0E9EB3AB9C7D00670154A /* Build configuration list for PBXProject "swift fun" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -162,6 +167,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EB4A23BKUW;
 				INFOPLIST_FILE = "swift fun/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ayo.buba.swift-fun";
@@ -225,6 +231,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EB4A23BKUW;
 				INFOPLIST_FILE = "swift fun/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ayo.buba.swift-fun";
@@ -301,6 +308,7 @@
 				1BB0E6EC0C68D3EF21ACD1EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1BB0E9EB3AB9C7D00670154A /* Build configuration list for PBXProject "swift fun" */ = {
 			isa = XCConfigurationList;
